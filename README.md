@@ -52,7 +52,7 @@ This submission is designed to meet evaluator expectations for clarity, modulari
 
 ## 🙌 Author
 
-**Prakash**  
+**Kumar Prakash**  
 Detail-oriented, strategic thinker with a passion for turning data into compelling stories.  
 📧 prakashgoyal.16417@gmail.com
 
